@@ -79,3 +79,5 @@ Paleta corporativa: navy `#1E2761` + azul hielo `#CADCFC` + blanco.
 | Backend y motor de análisis | Eric Reinaldo Salvador | Iniciativa y adaptabilidad, clave en la parte con más decisiones de diseño sobre la marcha | Flask/FastAPI, lógica de scoring, conexión con PostgreSQL |
 
 Frontend y documentación se reparten por sprint según disponibilidad. Cada uno revisa la parte del otro antes de darla por cerrada.
+
+**Se añadirá una máquina virtual Debian 13 la cual sera utilizada para gran parte del proyecto en conjunto a proxmox**
